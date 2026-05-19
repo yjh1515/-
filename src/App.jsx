@@ -12,40 +12,37 @@ export default function ArtGallerySite() {
   };
 
   const artist = {
-    name: "YANG JIHYEON",
+    name: "양지현",
     intro:
-      "금붕어와 바다를 중심으로 흐름과 순환, 생명의 움직임을 탐구하는 작업을 이어가고 있다.",
+      "바다를 중심으로 흐름과 순환, 생명의 움직임을 탐구하는 작업을 이어가고 있다.",
   };
 
   const works = [
     {
-      title: "유영",
+      title: "생명력",
       year: "2026",
-      material: "먹, 레진, 한지",
+      material: "섬유, 혼합재료",
       description:
-        "깊은 물속을 유영하는 금붕어의 움직임을 통해 자유와 생명의 흐름을 표현한 작품.",
-      image:
-        "https://images.unsplash.com/photo-1518837695005-2083093ee35b?q=80&w=1600&auto=format&fit=crop",
+        "천의 흐름과 유기적인 형태를 통해 바다 생명체의 움직임과 생명력을 표현한 작품.",
+      image: "/20251120_230852.png",
     },
 
     {
-      title: "파도 아래",
+      title: "숨",
       year: "2026",
-      material: "수묵, 혼합재료",
+      material: "라면스프, 혼합재료",
       description:
-        "잔잔한 수면 아래 반복되는 흐름과 삶의 순환을 담아낸 작업.",
-      image:
-        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1600&auto=format&fit=crop",
+        "거친 질감과 번짐을 통해 살아 있는 금붕어의 생명성과 호흡을 담아낸 작업.",
+      image: "/20260317_120957.jpg",
     },
 
     {
-      title: "흐르는 생명",
+      title: "일상",
       year: "2025",
-      material: "수묵채색",
+      material: "채색, 드로잉",
       description:
-        "먹의 번짐과 푸른 색감을 통해 바다와 삶의 연결성을 시각화한 작품.",
-      image:
-        "https://images.unsplash.com/photo-1493558103817-58b2924bce98?q=80&w=1600&auto=format&fit=crop",
+        "일상의 언어와 금붕어의 이미지를 결합해 현대적인 감각으로 재해석한 작품.",
+      image: "/20251024_154452.jpg",
     },
   ];
 
